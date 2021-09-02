@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.glavnidiv{
+    display: flex;
+    justify-content: space-around;
+}
+#liste{
+    display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+}
+.dugme{
+    border: 1px solid black;
+    width: 65px;
+    height: 30px;
+    cursor: pointer;
+    margin-top: 9px;
+    background-color: rgb(184, 179, 179);
+    border-radius: 3px;
+
+}
+
+.ul{
+    display: flex;
+    list-style-type: none;
+}
+li{
+    margin: 0px 10px;
+}

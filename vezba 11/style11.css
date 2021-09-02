@@ -1,0 +1,37 @@
+.deo_jedan{
+    background-color:white;
+    border-style:solid ;
+    border-color: rgb(31, 29, 29);
+    border-radius: 5px ;
+    width: 1000px;
+    height: 370px;
+
+}
+
+.slika{
+
+    width: 55px;
+    margin-top: 120px;
+
+}
+.naslov{
+
+    text-align: center;
+
+
+}
+
+.naslov{
+
+    display: inline-block;
+    margin-left: 100px;
+
+
+
+}
+
+#dugme{
+
+    margin-right: 100px;
+
+}

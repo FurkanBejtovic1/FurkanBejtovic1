@@ -1,0 +1,48 @@
+#heder{
+    width: 97%;
+    padding: 25px;   
+    background-color: rgb(235, 235, 49);
+    color: black;
+    text-align: left;
+    margin-bottom: 10px;
+}
+#nav{
+    display: inline-block;
+    width: 10%;
+    height: 500px;
+    padding: 30px;
+    background-color: rgb(235, 235, 49);
+    color: black;
+    text-align: left;
+    margin-bottom: 10px;
+
+
+}
+#artikal{
+    display: inline-block;
+    width: 60%;
+    height: 500px;
+    padding: 30px;
+    background-color: rgb(235, 235, 49);
+    color: black;
+    text-align: left;
+    margin-left: 18px;
+    margin-right: 18px;
+}
+#ads{
+    display: inline-block;
+    width: 15%;
+    height: 500px;
+    padding: 30px;
+    background-color: rgb(235, 235, 49);
+    color: black;
+    text-align: left;
+}
+#futer{
+     width: 97%;
+     height: 100px;
+background-color: rgb(235, 235, 49);
+color: black;
+text-align: left;
+margin-bottom: 10px;
+}

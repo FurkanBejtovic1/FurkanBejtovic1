@@ -1,0 +1,35 @@
+#div1{
+    width: 100px;
+    height: 500px;
+    border: 2px solid black;
+    left: 20px;
+    top: 10px;
+    background-color: gold;
+}
+#div2{
+    position: absolute;
+    width: 100px;
+    height: 500px;
+    border: 2px solid black;
+    left: 120px;
+    top: 8px;
+    background-color: darkmagenta;
+}
+#div3{
+    position: absolute;
+    width: 100px;
+    height: 500px;
+    border: 2px solid black;
+    left: 230px;
+    top: 8px;
+    background-color: cyan;
+}
+#div4{
+    position: absolute;
+    width: 100px;
+    height: 500px;
+    border: 2px solid black;
+    left: 340px;
+    top: 8px;
+    background-color: chartreuse;
+}

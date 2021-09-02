@@ -1,0 +1,53 @@
+.cela_lista{
+
+    background-color:white;
+    border-style:solid ;
+    border-color: rgb(31, 29, 29);
+    border-radius: 5px ;
+    width: 1750px;
+    height: 450px;
+
+}
+.lista1{
+
+display: inline-block;
+margin-left: 49px; 
+margin-top: 150px;
+
+}
+
+
+.lista2{
+
+    display: inline-block;
+    margin-left: 85px;
+    margin-top: 150px;
+
+}
+
+.lista3{
+
+    display: inline-block;
+    margin-left: 85px;
+    margin-top: 150px;
+
+}
+
+
+.lista4 {
+
+    display: inline-block;
+    margin-top: 150px;
+    margin-left: 65px;
+}
+
+
+#slika {
+    display: inline-block;
+    width: 55px;
+     border-radius: 100px;
+    margin-top: 1px;
+    margin-left: 1150px;
+
+}
+

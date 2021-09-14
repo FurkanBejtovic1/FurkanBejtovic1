@@ -1,0 +1,72 @@
+.glavnidiv{
+    border: 1px solid white;
+    position: absolute;
+    width: 99%;
+    height: 98%;
+}
+.div1{
+    border: 1px solid gray;
+    width: 420px;
+    height: 300px;
+    position: absolute;
+    top: 80px;
+    left: 4%;
+    background-color: rgb(236, 233, 233);
+}
+#brojevi{
+    position: absolute;
+    left: 115px;
+    top: 85px;
+    font-size: 55px;
+}
+.div2{
+    border: 1px solid gray;
+    position: absolute;
+    width: 420px;
+    height: 200px;
+    top: 381px;
+    left: 4%;
+}
+#text2{
+    position: absolute;
+    font-size: 20px;
+    color: rgb(67, 67, 233);
+    top: 120px;
+    left: 20px;
+}
+#strelica{
+    position: absolute;
+    top: 118px;
+    left: 125px;
+    font-size: 20px;
+}
+#slika{
+    position: absolute;
+    left: 270px;
+    top: 150px;
+    width: 30px;
+    height: 30px;
+
+}
+#brojevi2{
+    position: absolute;
+    left: 315px;
+    top: 140px;
+}
+#crtica{
+    position: absolute;
+    left: 355px;
+    top: 140px;
+}
+#komentar{
+    position: absolute;
+    left: 370px;
+    width: 20px;
+    height: 20px;
+}
+#broj{
+    position: absolute;
+    left: 399px;
+    top: 142px;
+}
+

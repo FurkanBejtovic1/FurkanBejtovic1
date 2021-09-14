@@ -1,0 +1,85 @@
+.glavnidiv{
+    position: absolute;
+    border: 1px solid white;
+    width: 98%;
+    height: 95%;
+}
+#klik1{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    margin-top: 250px;
+    margin-left: 5%;
+    color: black;
+    transition: all 1s ease-in;
+}
+#klik1:hover{
+    transform: rotate(1080deg);
+    width: 200px;
+    height: 150px;
+    background-color: chartreuse;
+    font-size: 35px;
+    border: 1px chartreuse solid;
+}
+
+#klik2{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    margin-top: 250px;
+    margin-left: 30%;
+    color: black;
+    transition: all 1s ease-in;
+}
+#klik2:hover{
+    transform: rotate2d(1080deg);
+    width: 200px;
+    height: 150px;
+    background-color: darkmagenta;
+    font-size: 35px;
+    border: 1px darkmagenta solid;
+}
+
+#klik3{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    margin-top: 250px;
+    margin-left: 55%;
+    color: black;
+    transition: all 1s ease-in;
+}
+#klik3:hover{
+    transform: skew(200deg);
+    width: 200px;
+    height: 150px;
+    background-color: gold;
+    font-size: 35px;
+    border: 1px gold solid;
+}
+#klik4{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    margin-top: 250px;
+    margin-left: 82%;
+    color: black;
+    transition: all 1s ease-in;
+}
+#klik4:hover{
+    transform: matrix(100deg);
+    width: 200px;
+    height: 150px;
+    background-color: darkred;
+    font-size: 35px;
+    border: 1px darkred solid;
+}
+#naslov{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}

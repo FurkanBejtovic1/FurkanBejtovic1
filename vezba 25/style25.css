@@ -1,0 +1,85 @@
+.glavnidiv{
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    background-color: black;
+    width: 80%;
+    height: 65px;
+    border-radius: 5px;
+}
+.kompanija{
+    position: absolute;
+    left: 35px;
+    color:  white;
+    font-size: 32px;
+}
+.liste1{
+    position: absolute; 
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    left: 30%;
+    top: 25px;
+    font-size: 32px;
+}   
+.liste2{
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    left: 40%;
+    top: 25px;
+    font-size: 32px;
+}
+.liste3{
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    left: 50%;
+    top: 25px;
+    font-size: 32px;
+}
+.liste4{
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    left: 62%;
+    top: 25px;
+    font-size: 32px;
+}
+.liste5{
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    left: 74%;
+    top: 25px;
+    font-size: 32px;
+}
+.liste1:hover{
+    background-color: gray;
+    height: 38px;
+    border-radius: 3.5px;
+}
+.liste2:hover{
+    background-color: gray;
+    height: 38px;
+    border-radius: 3.5px;
+}
+.liste3:hover{
+    background-color: gray;
+    height: 38px;
+    border-radius: 3.5px;
+}
+.liste4:hover{
+    background-color: gray;
+    height: 38px;
+    border-radius: 3.5px;
+}
+.liste5:hover{
+    background-color: gray;
+    height: 38px;
+    border-radius: 3.5px;
+}

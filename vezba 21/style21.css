@@ -294,14 +294,14 @@ table{
 }
 #IG{
     position: absolute;
-    width: 65px;
-    height: 35px;
+    width: 55px;
+    height: 40px;
     left: 25%;
 }
 #SY{
     position: absolute;
-    width: 55px;
-    height: 35px;
+    width: 75px;
+    height: 40px;
     left: 35%;
 }
 #FB{
@@ -312,8 +312,8 @@ table{
 }
 #SC{
     position: absolute;
-    width: 40px;
-    height: 35px;
+    width: 55px;
+    height: 40px;
     left: 55%;
 }
 #DC{

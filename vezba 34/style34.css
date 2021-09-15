@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.glavnidiv{
+    width: 50%;
+    height: 550px;
+    border-radius: 10px;
+    border: 3px solid black;
+    display: grid;
+    grid-template-columns: repeat(4,3fr);
+}
+.box{
+    padding: 3rem;
+}
+.div1{
+    border-radius: 15px;
+    background-color: rgb(245, 114, 39);
+    text-align: center;
+    grid-column-start:1;
+    grid-column-end: 5;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+.div2{
+    border-radius: 15px;
+    background-color: rgb(6, 160, 250);
+    grid-column-start:1;
+    grid-column-end: 3;
+    text-align: center;
+}
+.div3{
+    
+    display: none;
+}
+.div4{
+    border-radius: 15px;
+    background-color: rgb(247, 76, 105);
+    text-align: center;
+    grid-column-start:4;
+    grid-column-end: 5;
+}
+.div5{
+    border-radius: 15px;
+    background-color: rgb(21, 177, 21);
+    text-align: center;
+    grid-column-start:1;
+    grid-column-end: 5;
+}

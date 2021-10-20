@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(slika1.jpg);
+    background-size: cover;
+}
+.glavnidiv{
+    display: flex;
+    justify-content: center;
+}
+.forma{
+    border: 15px solid black;
+    width: 115vh;
+    height: 200vh;
+}

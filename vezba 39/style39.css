@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.glavnidiv{
+    border: 1px solid black;
+    height: 7vh;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    font-size: 30px;
+    
+}
+#hamburger{
+    color: white;
+    padding: 10px 15px;
+}
+#hamburger:hover{
+    background-color: rgb(37, 184, 37);
+}
+.lista1{
+    display: none;
+    position: absolute;
+    left: 0px;
+    color: black;
+    list-style: none;
+    width: 100%;
+}
+#hamburger:hover .lista1{
+    display: block;
+}
+.lista{
+    background-color: rgb(24, 24, 24);
+    color: white;
+    padding: 10px;
+}
+.lista:hover{
+    background-color: white;
+    color: black;
+}

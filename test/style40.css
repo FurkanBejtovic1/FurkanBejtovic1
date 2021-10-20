@@ -1,0 +1,48 @@
+.glavnidiv{
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: repeat(4,3fr);
+}
+.okvir{
+    padding: 4rem;
+    border: 0.5rem solid white;
+}
+.div1{
+    border-color: black;
+    background-origin: padding-box;
+    grid-column-end: 4;
+}
+.div2{
+    border-color: black;
+    grid-column-start: 4;
+    grid-column-end: 4;
+}
+.div3{
+    border-color: black;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 4;
+    grid-row-end: 2;
+}
+.div4{
+    border-color: black;
+    grid-column-start: 2;
+    grid-column-end: 5;
+}
+.div5{
+    border-color: black;
+    grid-column-start: 2;
+    grid-column-end: 5;
+}
+.div6{
+    border-color: black;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    width: 185px;
+}
+.div7{
+    border-color: black;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    width: 710px;
+}
